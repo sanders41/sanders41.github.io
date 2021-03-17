@@ -4,15 +4,11 @@ updates:
   directory: '/'
   schedule:
     interval: daily
-  reviewers:
-    - sanders41
   assignees:
     - sanders41
 - package-ecosystem: github-actions
   directory: '/'
   schedule:
     interval: daily
-  reviewers:
-    - sanders41
   assignees:
     - sanders41
