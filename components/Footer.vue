@@ -21,11 +21,11 @@
 </template>
 
 <style scoped>
-  .footer {
-    padding-top: 25px;
-  }
+.footer {
+  padding-top: 25px;
+}
 
-  .social-icon {
-    font-size: 30px;
-  }
+.social-icon {
+  font-size: 30px;
+}
 </style>
