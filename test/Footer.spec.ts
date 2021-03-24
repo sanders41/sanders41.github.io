@@ -22,7 +22,7 @@ describe('Footer', () => {
     const wrapper = mount(Footer);
     const currentYear = new Date().getFullYear();
 
-    if (currentYear == 2021) {
+    if (currentYear === 2021) {
       expect(wrapper.html()).toContain('© 2021 Paul Sanders');
     } else {
       expect(wrapper.html()).toContain(`© 2021 - ${currentYear} Paul Sanders`);
