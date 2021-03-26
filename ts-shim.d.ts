@@ -4,3 +4,5 @@ declare module '*.vue' {
 }
 
 declare module '@nuxtjs/fontawesome';
+
+declare module 'nuxt';

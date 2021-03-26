@@ -3,12 +3,17 @@ import Footer from '@/components/Footer.vue';
 
 describe('Footer', () => {
   test('is a Vue instance', () => {
-    const wrapper = mount(Footer);
+    const wrapper = mount(Footer, { stubs: ['font-awesome-icon'] });
     expect(wrapper.vm).toBeTruthy();
   });
 
+  test('footer class', () => {
+    const wrapper = mount(Footer, { stubs: ["font-awesome-icon"] });
+    expect(wrapper.find('footer.footer').exists()).toBeTruthy();
+  });
+
   test('links present', () => {
-    const wrapper = mount(Footer);
+    const wrapper = mount(Footer, { stubs: ["font-awesome-icon"] });
 
     expect(wrapper.html()).toContain('icon="fab,twitter"');
     expect(wrapper.html()).toContain('href="https://twitter.com/paul41"');
@@ -19,13 +24,15 @@ describe('Footer', () => {
   });
 
   test('copyrite present', () => {
-    const wrapper = mount(Footer);
+    const wrapper = mount(Footer, { stubs: ["font-awesome-icon"] });
     const currentYear = new Date().getFullYear();
+    const copyrite = wrapper.find('div#copyrite');
 
     if (currentYear === 2021) {
-      expect(wrapper.html()).toContain('© 2021 Paul Sanders');
+      expect(copyrite.text()).toContain('© 2021 Paul Sanders');
     } else {
-      expect(wrapper.html()).toContain(`© 2021 - ${currentYear} Paul Sanders`);
+      expect(copyrite.text()).toContain(`© 2021 - ${currentYear} Paul Sanders`);
     }
   });
 });
+
