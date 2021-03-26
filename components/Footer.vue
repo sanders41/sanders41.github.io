@@ -11,10 +11,10 @@
         <font-awesome-icon :icon="['fab', 'github']" class="social-icon" />
       </a>
     </div>
-    <div v-if="new Date().getFullYear() == 2021" class="footer">
+    <div v-if="new Date().getFullYear() == 2021" id="copyrite" class="top-pad">
       &copy; {{ new Date().getFullYear() }} Paul Sanders
     </div>
-    <div v-else class="footer">
+    <div v-else id="copyrite" class="top-pad">
       &copy; 2021 - {{ new Date().getFullYear() }} Paul Sanders
     </div>
   </footer>
@@ -22,7 +22,12 @@
 
 <style scoped>
 .footer {
-  padding-top: 25px;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.top-pad {
+  padding-top: 1rem;
 }
 
 .social-icon {

@@ -20,7 +20,6 @@
       Some open source projects of mine are:
     </p>
     <Projects />
-    <Footer />
   </div>
 </template>
 
