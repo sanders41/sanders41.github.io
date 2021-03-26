@@ -11,10 +11,10 @@
         <font-awesome-icon :icon="['fab', 'github']" class="social-icon" />
       </a>
     </div>
-    <div id="copyrite" v-if="new Date().getFullYear() == 2021" class="top-pad">
+    <div v-if="new Date().getFullYear() == 2021" id="copyrite" class="top-pad">
       &copy; {{ new Date().getFullYear() }} Paul Sanders
     </div>
-    <div id="copyrite" v-else class="top-pad">
+    <div v-else id="copyrite" class="top-pad">
       &copy; 2021 - {{ new Date().getFullYear() }} Paul Sanders
     </div>
   </footer>
