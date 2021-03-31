@@ -11,6 +11,7 @@
         <a href="https://github.com/meilisearch/meilisearch-rust">MeiliSearch Rust</a>
         client, the
         <a href="https://github.com/meilisearch/documentation">MeiliSearch Documentation</a>,
+        the <a href="https://github.com/meilisearch/docs-scraper">MeiliSearch doc-scraper</a>,
         and the core <a href="https://github.com/meilisearch/MeiliSearch">MeiliSearch</a>
         project.
       </li>
