@@ -1,4 +1,4 @@
-# paulsanders
+# Paul Sanders Website
 
 ## Build Setup
 
