@@ -1,0 +1,17 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.4.0
+    hooks:
+    - id: check-toml
+    - id: check-yaml
+    - id: end-of-file-fixer
+    - id: trailing-whitespace
+  - repo: https://github.com/pre-commit/mirrors-eslint
+    rev: v6.7.2
+    hooks:
+    - id: eslint
+      additional_dependencies:
+      - "@typescript-eslint/eslint-plugin@4.18.0"
+      - "@nuxtjs/eslint-config-typescript@6.0.0"
+      files: \.[jt]sx?|\.vue?$  # *.vue, *.js, *.jsx, *.ts and *.tsx
+      args: [-c, ./.eslintrc.js]
