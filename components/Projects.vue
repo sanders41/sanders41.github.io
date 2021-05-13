@@ -16,6 +16,10 @@
         project.
       </li>
       <li>
+        <a href="https://github.com/sanders41/meilisearch-fastapi">meilisearch-fastapi</a>
+        - This package provides pre-built routes for interacting with MeiliSearch that can be
+        plugged into a larger FastAPI project.
+      <li>
         <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat-converter</a>
         - This Python package converts proprietary sas7bdat and/or xport files from SAS into
         formats such as csv, json, and Excel useable by other programs. These conversion can be
