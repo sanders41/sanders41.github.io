@@ -31,7 +31,7 @@
     "jest": "^27.0.4",
     "postcss-nested": "^5.0.5",
     "tailwindcss": "^2.1.4",
-    "ts-jest": "^27.0.2",
+    "ts-jest": "^27.0.3",
     "vue-jest": "^3.0.7"
   }
 }
