@@ -8,7 +8,7 @@
         creating this async client, I am also a contributor on the official
         <a href="https://github.com/meilisearch/meilisearch-python">MeiliSearch Python</a>
         client, along with multiple other
-        <a href="https://github.com/meilisearch">MeiliSearch Repositories</a>
+        <a href="https://github.com/meilisearch">MeiliSearch repositories</a>
       </li>
       <li>
         <a href="https://github.com/sanders41/meilisearch-fastapi">meilisearch-fastapi</a>
