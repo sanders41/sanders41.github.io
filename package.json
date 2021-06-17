@@ -30,7 +30,7 @@
     "babel-jest": "^27.0.2",
     "jest": "^27.0.4",
     "postcss-nested": "^5.0.5",
-    "tailwindcss": "^2.1.4",
+    "tailwindcss": "^2.2.0",
     "ts-jest": "^27.0.3",
     "vue-jest": "^3.0.7"
   }
