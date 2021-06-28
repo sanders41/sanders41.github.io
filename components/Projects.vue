@@ -2,7 +2,7 @@
   <div class="projects mt-4">
     <ul class="list-disc">
       <li>
-        <a href="https://github.com/sanders41/async-search-client">async-search-client</a>
+        <a href="https://github.com/sanders41/meilisearch-python-async">meilisearch-python-async</a>
         - This package is an asyncronus Python client for the
         <a href="https://www.meilisearch.com/">MeiliSearch</a> search engine. In additon to
         creating this async client, I am also a contributor on the official
@@ -14,6 +14,7 @@
         <a href="https://github.com/sanders41/meilisearch-fastapi">meilisearch-fastapi</a>
         - This package provides pre-built routes for interacting with MeiliSearch that can be
         plugged into a larger FastAPI project.
+      </li>
       <li>
         <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat-converter</a>
         - This Python package converts proprietary sas7bdat and/or xport files from SAS into
