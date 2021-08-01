@@ -23,14 +23,6 @@
         <a href="https://github.com/pandas-dev/pandas/">Pandas</a> for performing the conversion
         of the sas7bdat and xport into DataFrames.
       </li>
-      <li>
-        <a href="https://github.com/sanders41/split-schedule">split-schedule</a>
-        - My sister is a high school teacher, and when Covid-19 her school was trying to figure
-        out a way to split their current schedule across multiple days in order to ruduce
-        class size. They asked if I could help with this because they were having trouble
-        figuring it out manually so I created this program. I released it as an open source
-        project in hopes that it would be useful to other schools.
-      </li>
     </ul>
   </div>
 </template>

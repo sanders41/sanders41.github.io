@@ -17,7 +17,7 @@ describe('Projects', () => {
     expect(wrapper.html()).toContain(
       'href="https://github.com/sanders41/meilisearch-python-async"',
     );
+    expect(wrapper.html()).toContain('href="https://github.com/sanders41/meilisearch-fastapi"');
     expect(wrapper.html()).toContain('href="https://github.com/sanders41/sas7bdat-converter"');
-    expect(wrapper.html()).toContain('href="https://github.com/sanders41/split-schedule"');
   });
 });
