@@ -16,6 +16,12 @@
         plugged into a larger FastAPI project.
       </li>
       <li>
+        <a href="https://github.com/sanders41/weather-command">weather-command</a>
+        - I am interested in weather, spend a lot of time in the command line, and was looking for
+        a reason to try out the <a href="https://github.com/willmcgugan/rich">Rich</a> library.
+        With that in mind I created this weather CLI.
+      </li>
+      <li>
         <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat-converter</a>
         - This Python package converts proprietary sas7bdat and/or xport files from SAS into
         formats such as csv, json, and Excel useable by other programs. These conversion can be
