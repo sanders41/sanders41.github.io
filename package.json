@@ -3,15 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt-ts",
-    "build": "nuxt-ts build",
-    "start": "nuxt-ts start",
-    "generate": "nuxt-ts generate",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
     "test": "jest",
     "lint": "eslint --ext .ts,.js,.vue ."
   },
   "dependencies": {
-    "@nuxt/typescript-runtime": "^2.0.1",
     "core-js": "^3.18.2",
     "nuxt": "^2.15.8"
   },
