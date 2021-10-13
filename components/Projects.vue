@@ -26,8 +26,8 @@
         - In JSON keys are normally in camelCase format, while variable names in Python normally use
         snake_case. This package automatically converts between the two formats. In addition the
         package provides a <a href='https://pydantic-docs.helpmanual.io/'>Pydantic</a> base model
-        that allows the Pydantic models to be created with the preferred Python style snake case
-        variable names and will automatically convert from/to camel case when
+        that, when inherited, allows Pydantic models to be created with the preferred Python style
+        snake case variable names and will automatically convert from/to camel case when
         deserializing/serializing the data.
       </li>
       <li>
