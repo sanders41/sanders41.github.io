@@ -19,6 +19,7 @@ describe('Projects', () => {
     );
     expect(wrapper.html()).toContain('href="https://github.com/sanders41/meilisearch-fastapi"');
     expect(wrapper.html()).toContain('href="https://github.com/sanders41/weather-command"');
+    expect(wrapper.html()).toContain('href="https://github.com/sanders41/camel-converter"');
     expect(wrapper.html()).toContain('href="https://github.com/sanders41/sas7bdat-converter"');
   });
 });

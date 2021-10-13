@@ -22,6 +22,15 @@
         With that in mind I created this weather CLI.
       </li>
       <li>
+        <a href="https://github.com/sanders41/camel-converter">camel-converter</a>
+        - In JSON keys are normally in camelCase format, while variable names in Python normally use
+        snake_case. This package automatically converts between the two formats. In addition the
+        package provides a <a href='https://pydantic-docs.helpmanual.io/'>Pydantic</a> base model
+        that, when inherited, allows Pydantic models to be created with the preferred Python style
+        snake case variable names and will automatically convert from/to camel case when
+        deserializing/serializing the data.
+      </li>
+      <li>
         <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat-converter</a>
         - This Python package converts proprietary sas7bdat and/or xport files from SAS into
         formats such as csv, json, and Excel useable by other programs. These conversion can be
