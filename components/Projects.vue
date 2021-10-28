@@ -16,6 +16,10 @@
         plugged into a larger FastAPI project.
       </li>
       <li>
+        <a href="https://github.com/sanders41/meilisearch-cli">meilisearch-cli</a>
+        - This package is a command line interface for managing MeiliSearch
+      </li>
+      <li>
         <a href="https://github.com/sanders41/weather-command">weather-command</a>
         - I am interested in weather, spend a lot of time in the command line, and was looking for
         a reason to try out the <a href="https://github.com/willmcgugan/rich">Rich</a> library.
@@ -25,7 +29,7 @@
         <a href="https://github.com/sanders41/camel-converter">camel-converter</a>
         - In JSON keys are normally in camelCase format, while variable names in Python normally use
         snake_case. This package automatically converts between the two formats. In addition the
-        package provides a <a href='https://pydantic-docs.helpmanual.io/'>Pydantic</a> base model
+        package provides a <a href="https://pydantic-docs.helpmanual.io/">Pydantic</a> base model
         that, when inherited, allows Pydantic models to be created with the preferred Python style
         snake case variable names and will automatically convert from/to camel case when
         deserializing/serializing the data.
