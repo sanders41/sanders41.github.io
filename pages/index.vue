@@ -19,7 +19,7 @@
     <p class="mt-8">
       Some open source projects of mine are:
     </p>
-    <Projects />
+    <MyProjects />
   </div>
 </template>
 

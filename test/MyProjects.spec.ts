@@ -3,16 +3,16 @@
  */
 
 import { mount } from '@vue/test-utils';
-import Projects from '@/components/Projects.vue';
+import MyProjects from '@/components/MyProjects.vue';
 
-describe('Projects', () => {
+describe('MyProjects', () => {
   test('is a Vue instance', () => {
-    const wrapper = mount(Projects);
+    const wrapper = mount(MyProjects);
     expect(wrapper.vm).toBeTruthy();
   });
 
   test('links present', () => {
-    const wrapper = mount(Projects);
+    const wrapper = mount(MyProjects);
 
     expect(wrapper.html()).toContain(
       'href="https://github.com/sanders41/meilisearch-python-async"',
