@@ -1,1 +1,3 @@
 dist/*
+layouts/default.vue
+pages/index.vue
