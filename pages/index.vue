@@ -17,8 +17,7 @@
     <div class="mt-8">
       <p>
         At Ethyca I work on our open source
-        <a href="https://github.com/ethyca/fides">Fides</a> and
-        <a href="https://github.com/ethyca/fidesops">Fidesops</a> projects.
+        <a href="https://github.com/ethyca/fides">Fides</a> project.
       </p>
     </div>
     <p class="mt-8">Some open source projects of mine are:</p>
@@ -27,15 +26,15 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue';
+import Vue from "vue";
 
 export default Vue.extend({});
 </script>
 
 <style>
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: block;
   font-weight: 300;
   font-size: 100px;
