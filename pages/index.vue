@@ -9,17 +9,7 @@
     <p class="lead">Hi, I'm Paul.</p>
     <p>
       I have over 20 years experience as a software engineer and data manager.
-      Currently, I am a staff software engineer at
-      <a href="https://ethyca.com/">Ethyca</a>. In my spare time I enjoy working
-      on open source projects, and I also enjoy teaching and mentoring new
-      developers.
     </p>
-    <div class="mt-8">
-      <p>
-        At Ethyca I work on our open source
-        <a href="https://github.com/ethyca/fides">Fides</a> project.
-      </p>
-    </div>
     <p class="mt-8">Some open source projects of mine are:</p>
     <MyProjects />
   </div>
