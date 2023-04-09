@@ -1,0 +1,32 @@
+# The URL the site will be built for
+base_url = "https://paulsanders.dev"
+title = "Paul Sanders"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# theme = "blow"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+[extra.index]
+title="Paul Sanders"
+image = "paul.jpg"
+image_alt = "Paul Sanders"
+
+[extra.favicon]
+favicon = "../static/icons/favicon.ico"
+
+[extra.social]
+github = "https://github.com/sanders41"
+linkedin = "https://www.linkedin.com/in/paul-sanders-1367047/"
+email = "paul@pbsdatasolutions.com"
