@@ -29,19 +29,14 @@ title = "Paul Sanders"
     <li>
       <a href="https://github.com/sanders41/meilisearch-python-async">meilisearch-python-async</a>
       - This package is an asyncronus Python SDK for the
-      <a href="https://www.meilisearch.com/">MeiliSearch</a> search engine. In additon to creating
+      <a href="https://www.meilisearch.com/">Meilisearch</a> search engine. In additon to creating
       this async SDK, I am also a contributor on the official
-      <a href="https://github.com/meilisearch/meilisearch-python">MeiliSearch Python</a> SDK, along
-      with multiple other MeiliSearch repositories.
+      <a href="https://github.com/meilisearch/meilisearch-python">Meilisearch Python</a> SDK, along
+      with multiple other Meilisearch repositories.
     </li>
     <li>
-      <a href="https://github.com/sanders41/meilisearch-fastapi">meilisearch-fastapi</a>
-      - This package provides pre-built routes for interacting with MeiliSearch that can be
-      plugged into a larger FastAPI project.
-    </li>
-    <li>
-      <a href="https://github.com/sanders41/meilisearch-cli">meilisearch-cli</a>
-      - This package is a command line interface for managing MeiliSearch
+      <a href="https://github.com/sanders41/meilisearch-tui">meilisearch-tui</a>
+      - A Text User Interface for searching and managing Meilisearch from the terminal.
     </li>
     <li>
       <a href="https://github.com/sanders41/weather-command">weather-command</a>
