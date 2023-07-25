@@ -30,9 +30,9 @@ title = "Paul Sanders"
       <a href="https://github.com/sanders41/meilisearch-python-async">meilisearch-python-async</a>
       - This package is an asyncronus Python SDK for the
       <a href="https://www.meilisearch.com/">Meilisearch</a> search engine. In additon to creating
-      this async SDK, I am also a contributor on the official
-      <a href="https://github.com/meilisearch/meilisearch-python">Meilisearch Python</a> SDK, along
-      with multiple other Meilisearch repositories.
+      this async SDK, I am also a maintainer on the official
+      <a href="https://github.com/meilisearch/meilisearch-python">Meilisearch Python</a> SDK, and
+      contribute to multiple other Meilisearch repositories.
     </li>
     <li>
       <a href="https://github.com/sanders41/meilisearch-tui">meilisearch-tui</a>
