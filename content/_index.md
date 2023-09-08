@@ -27,7 +27,7 @@ title = "Paul Sanders"
 <div class="mt-2">
   <ul>
     <li>
-      <a href="https://github.com/sanders41/meilisearch-python-async">meilisearch-python-async</a>
+      <a href="https://github.com/sanders41/meilisearch-python-async">Meilisearch Python Async</a>
       - This package is an asyncronus Python SDK for the
       <a href="https://www.meilisearch.com/">Meilisearch</a> search engine. In additon to creating
       this async SDK, I am also a maintainer on the official
@@ -35,17 +35,24 @@ title = "Paul Sanders"
       contribute to multiple other Meilisearch repositories.
     </li>
     <li>
-      <a href="https://github.com/sanders41/meilisearch-tui">meilisearch-tui</a>
+      <a href="https://github.com/sanders41/meilisearch-tui">Meilisearch TUI</a>
       - A Text User Interface for searching and managing Meilisearch from the terminal.
     </li>
     <li>
-      <a href="https://github.com/sanders41/weather-command">weather-command</a>
+      <a href="https://github.com/sanders41/python-project-generator">Python Project Generator</a>
+      - A CLI written in Rust to generator new Python projects. It generates the boiler plate code
+      needed when starting a new project. It automatically updates packages to their latest versions
+      when creating the project, and has options to create pure Python projects, and Python project
+      with Rust modules using PyO3.
+    </li>
+    <li>
+      <a href="https://github.com/sanders41/weather-command">Weather Command</a>
       - I am interested in weather, spend a lot of time in the command line, and was looking for
       a reason to try out the <a href="https://github.com/willmcgugan/rich">Rich</a> library.
       With that in mind I created this weather CLI.
     </li>
     <li>
-      <a href="https://github.com/sanders41/camel-converter">camel-converter</a>
+      <a href="https://github.com/sanders41/camel-converter">Camel Converter</a>
       - In JSON keys are normally in camelCase format, while variable names in Python normally use
       snake_case. This package automatically converts between the two formats. In addition the
       package provides a <a href="https://pydantic-docs.helpmanual.io/">Pydantic</a> base model
@@ -54,7 +61,7 @@ title = "Paul Sanders"
       deserializing/serializing the data.
     </li>
     <li>
-      <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat-converter</a>
+      <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat Converter</a>
       - This Python package converts proprietary sas7bdat and/or xport files from SAS into
       formats such as csv, json, and Excel useable by other programs. These conversion can be
       done on individual files, or on batches of files. Credit goes to
