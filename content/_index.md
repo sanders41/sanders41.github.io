@@ -27,10 +27,11 @@ title = "Paul Sanders"
 <div class="mt-2">
   <ul>
     <li>
-      <a href="https://github.com/sanders41/meilisearch-python-async">Meilisearch Python Async</a>
-      - This package is an asyncronus Python SDK for the
-      <a href="https://www.meilisearch.com/">Meilisearch</a> search engine. In additon to creating
-      this async SDK, I am also a maintainer on the official
+      <a href="https://github.com/sanders41/meilisearch-python-sdk">Meilisearch Python SDK</a>
+      - This package is an Python SDK for the
+      <a href="https://www.meilisearch.com/">Meilisearch</a> search engine that contains both an
+      async client and a sync client. In additon to creating this SDK, I am also a maintainer on
+      the official
       <a href="https://github.com/meilisearch/meilisearch-python">Meilisearch Python</a> SDK, and
       contribute to multiple other Meilisearch repositories.
     </li>
