@@ -16,9 +16,17 @@ title = "Paul Sanders"
 
 <div class="mt-2">
   <ul>
-    <li>Software Develpment - primarily with Python</li>
+    <li>Software Develpment - primarily with Python and Rust</li>
     <li>Data Management - specalizing in Animal Health Pharmaceuticals and Biologics</li>
   </ul>
+</div>
+
+<h2 class="mt-4">
+  PBS Data Solutions Open Source:
+</h2>
+<div class="mt-2">
+  PBS Data Solutions provides many of our applications and libraries under Open Source licenses.
+  You can can find them at our <a href="https://github.com/pbs-data-solutions">GitHub</a> page.
 </div>
 
 <h2 class="mt-4">
