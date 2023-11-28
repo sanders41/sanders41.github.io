@@ -51,7 +51,7 @@ title = "Paul Sanders"
       <a href="https://github.com/sanders41/python-project-generator">Python Project Generator</a>
       - A CLI written in Rust to generator new Python projects. It generates the boiler plate code
       needed when starting a new project. It automatically updates packages to their latest versions
-      when creating the project, and has options to create pure Python projects, and Python project
+      when creating the project, and has options to create pure Python projects, or Python project
       with Rust modules using PyO3.
     </li>
     <li>
