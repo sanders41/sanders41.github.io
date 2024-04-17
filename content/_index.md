@@ -80,8 +80,30 @@ title = "Paul Sanders"
   </ul>
 </div>
 <p class=mt-4>
-If you find any of my Open Source work helpful and want to support that work you can sponsor me on GithHub
+If you find any of my Open Source work helpful and want to support that work you can sponsor me on
+either GithHub or Buy Me A Coffee.
 </p>
 <div align="center" class="mt-4">
-  <iframe src="https://github.com/sponsors/sanders41/button" title="Sponsor sanders41" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  <iframe
+    src="https://github.com/sponsors/sanders41/button"
+    title="Sponsor sanders41"
+    height="32"
+    width="114"
+    style="border: 0; border-radius: 6px;"
+  ></iframe>
+</div>
+<div align="center" class="mt-4">
+  <script
+    type="text/javascript"
+    src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
+    data-name="bmc-button"
+    data-slug="sanders41"
+    data-color="#87ceeb"
+    data-emoji=""
+    data-font="Cookie"
+    data-text="Buy me a coffee"
+    data-outline-color="#000000"
+    data-font-color="#000000"
+    data-coffee-color="#FFDD00"
+  ></script>
 </div>
