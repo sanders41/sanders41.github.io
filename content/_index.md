@@ -26,7 +26,7 @@ title = "Paul Sanders"
 </h2>
 <div class="mt-2">
   PBS Data Solutions provides many of our applications and libraries under Open Source licenses.
-  You can can find them at our <a href="https://github.com/pbs-data-solutions">GitHub</a> page.
+  These can be found on the company <a href="https://github.com/pbs-data-solutions">GitHub</a> page.
 </div>
 
 <h2 class="mt-4">
