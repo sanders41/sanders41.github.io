@@ -35,6 +35,13 @@ title = "Paul Sanders"
 <div class="mt-2">
   <ul>
     <li>
+      <a href="https://github.com/sanders41/python-project-generator">Python Project Generator</a>
+      - A CLI written in Rust to start new Python projects. It generates the boiler plate code
+      needed when starting a new project. It automatically updates packages to their latest versions
+      when creating the project, and has options to create pure Python projects, or Python project
+      with Rust modules using PyO3.
+    </li>
+    <li>
       <a href="https://github.com/sanders41/meilisearch-python-sdk">Meilisearch Python SDK</a>
       - This package is an Python SDK for the
       <a href="https://www.meilisearch.com/">Meilisearch</a> search engine that contains both an
@@ -44,23 +51,6 @@ title = "Paul Sanders"
       contribute to multiple other Meilisearch repositories.
     </li>
     <li>
-      <a href="https://github.com/sanders41/meilisearch-tui">Meilisearch TUI</a>
-      - A Text User Interface for searching and managing Meilisearch from the terminal.
-    </li>
-    <li>
-      <a href="https://github.com/sanders41/python-project-generator">Python Project Generator</a>
-      - A CLI written in Rust to start new Python projects. It generates the boiler plate code
-      needed when starting a new project. It automatically updates packages to their latest versions
-      when creating the project, and has options to create pure Python projects, or Python project
-      with Rust modules using PyO3.
-    </li>
-    <li>
-      <a href="https://github.com/sanders41/weather-command">Weather Command</a>
-      - I am interested in weather, spend a lot of time in the command line, and was looking for
-      a reason to try out the <a href="https://github.com/willmcgugan/rich">Rich</a> library.
-      With that in mind I created this weather CLI.
-    </li>
-    <li>
       <a href="https://github.com/sanders41/camel-converter">Camel Converter</a>
       - In JSON keys are normally in camelCase format, while variable names in Python normally use
       snake_case. This package automatically converts between the two formats. In addition the
@@ -68,6 +58,17 @@ title = "Paul Sanders"
       that, when inherited, allows Pydantic models to be created with the preferred Python style
       snake case variable names and will automatically convert from/to camel case when
       deserializing/serializing the data.
+    </li>
+    <li>
+      <a href="https://github.com/sanders41/pytest-meilisearch">Pytest Meilisearch</a>
+      - This is a package that provides a lot of the pytest boiler plate code and fixtures needed
+      for testing Python projects that interact with Meilisearch.
+    </li>
+    <li>
+      <a href="https://github.com/sanders41/weather-command">Weather Command</a>
+      - I am interested in weather, spend a lot of time in the command line, and was looking for
+      a reason to try out the <a href="https://github.com/willmcgugan/rich">Rich</a> library.
+      With that in mind I created this weather CLI.
     </li>
     <li>
       <a href="https://github.com/sanders41/sas7bdat-converter">sas7bdat Converter</a>
