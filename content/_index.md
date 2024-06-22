@@ -21,6 +21,12 @@ title = "Paul Sanders"
   </ul>
 </div>
 
+<p class="mt-4">
+  If you are interested in hiring me, or discussing how I can help your organization
+  <a href="mailto:pau@pbsdatasolutions.com" aria-label="Contact">contact me</a> to talk about
+  options.
+</p>
+
 <h2 class="mt-4">
   PBS Data Solutions Open Source:
 </h2>
